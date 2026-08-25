@@ -17,6 +17,7 @@ Backend.
 ## Tecnologias
 
 - **Frontend:** React, TypeScript e JavaScript
+- **Mobile:** Flutter, Dart e Android
 - **Backend e dados:** Supabase, PostgreSQL, SQL e APIs REST
 - **Ferramentas:** Git, GitHub, GitHub Actions, Docker, VS Code, IntelliJ IDEA e
   Postman
@@ -32,6 +33,17 @@ acessibilidade e SEO, com publicação contínua no GitHub Pages.
 
 [Acessar o site](https://guilhermegpo.github.io/meu-perfil/) ·
 [Ver repositório](https://github.com/guilhermegpo/meu-perfil)
+
+### Meu Chamado
+
+Aplicativo Android offline-first e independente, em desenvolvimento. A fundação
+implementa onboarding, Workspace local, primeiro usuário `ADMIN`, persistência
+SQLite e testes automatizados, sem apresentar integrações planejadas como
+concluídas.
+
+**Stack:** Flutter, Dart, Riverpod e Drift
+
+[Ver repositório](https://github.com/guilhermegpo/meu-chamado)
 
 ## Portfólio
 
