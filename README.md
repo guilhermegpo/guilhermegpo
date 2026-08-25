@@ -1,72 +1,44 @@
-# Guilherme Pereira de Oliveira
+# Guilherme Pereira
 
-**Desenvolvedor Full Stack — Mobile & Backend**
+Desenvolvedor Full Stack | Mobile & Backend
 
-Brasília, DF · Brasil
+Brasília, DF — Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermeoliveira--gpo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeoliveira-gpo/)
+Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro
+do Sul. Tenho experiência prática no desenvolvimento e na implantação de uma
+aplicação web interna utilizada no Instituto de Logística da Aeronáutica —
+ILA/FAB, atuando com levantamento de requisitos, mapeamento de fluxos,
+desenvolvimento, banco de dados, documentação e suporte aos usuários.
 
----
-
-## Sobre
-
-Estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em TI e
-atualmente servindo na Força Aérea Brasileira.
-
-Meu interesse está em construir produtos completos: modelar o domínio, escrever o
-backend, entregar a aplicação mobile e sustentar as decisões de arquitetura que
-ligam as três pontas. Trabalho com uma regra simples — se eu não consigo explicar
-uma decisão técnica, ela não entra no projeto. Por isso registro as escolhas
-relevantes em ADRs e prefiro código legível a abstração prematura.
-
-Estou em transição de exercícios de aprendizado para produtos reais, versionados
-e documentados como software de produção.
+Construo projetos próprios com foco em produto, arquitetura e boas práticas de
+engenharia de software, com interesse profissional em Full Stack, Mobile e
+Backend.
 
 ## Tecnologias
 
-> Lista restrita ao que uso ou estou usando em projetos. Nada aqui está
-> listado apenas para aumentar a lista.
-
-**Linguagens**
-Java · JavaScript · Dart · SQL · HTML · CSS
-
-**Backend**
-Node.js · SQL (modelagem relacional)
-
-**Mobile**
-Flutter *(em uso no Meu Chamado)*
-
-**Frontend**
-HTML semântico · CSS responsivo · Astro · TypeScript
-
-**Ferramentas**
-Git · GitHub · GitHub Actions · Conventional Commits
+- **Frontend:** React, TypeScript e JavaScript
+- **Backend e dados:** Supabase, PostgreSQL, SQL e APIs REST
+- **Ferramentas:** Git, GitHub, GitHub Actions, Docker, VS Code, IntelliJ IDEA e
+  Postman
 
 ## Projetos em destaque
 
-### Meu Chamado
-Aplicativo mobile para organização e acompanhamento de chamados, com arquitetura
-multiusuário e multichamado. Offline-first, modular, com RBAC extensível e
-sincronização opcional.
+### Meu Perfil
 
-`Flutter` `Dart` `Offline-first` `RBAC` `Arquitetura modular`
+Portfólio profissional estático, construído com foco em performance,
+acessibilidade e SEO, com publicação contínua no GitHub Pages.
 
-*Em desenvolvimento — repositório em preparação.*
+**Stack:** Astro e TypeScript
 
-### [meu-perfil](https://github.com/guilhermegpo/meu-perfil)
-Portfólio profissional. Site estático focado em performance, acessibilidade e SEO,
-com deploy contínuo via GitHub Actions.
+[Acessar o site](https://guilhermegpo.github.io/meu-perfil/) ·
+[Ver repositório](https://github.com/guilhermegpo/meu-perfil)
 
-`Astro` `TypeScript` `GitHub Pages`
+## Portfólio
 
-## Atualmente
-
-- Desenvolvendo o **Meu Chamado**, primeiro produto da família *Apps Meu*
-- Construindo meu portfólio profissional
-- Aprofundando conhecimento em desenvolvimento Full Stack e Mobile
-- Estudando arquitetura de software e boas práticas de engenharia
+Conheça meus projetos e minha trajetória completa no
+[meu portfólio](https://guilhermegpo.github.io/meu-perfil/).
 
 ## Contato
 
-- **LinkedIn** — [guilhermeoliveira-gpo](https://www.linkedin.com/in/guilhermeoliveira-gpo/)
-- **GitHub** — [@guilhermegpo](https://github.com/guilhermegpo)
+- [GitHub](https://github.com/guilhermegpo)
+- [LinkedIn](https://www.linkedin.com/in/guilhermeoliveira-gpo/)
