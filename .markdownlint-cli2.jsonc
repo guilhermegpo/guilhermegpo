@@ -1,0 +1,17 @@
+{
+  // Regras desativadas porque conflitam com decisões deliberadas deste README.
+  // Cada uma tem um motivo — nenhuma foi silenciada por conveniência.
+  "config": {
+    // O banner usa <picture> com prefers-color-scheme: é a única forma de
+    // servir versão clara e escura no GitHub. Markdown puro não expressa isso.
+    "MD033": false,
+
+    // A primeira linha é o banner, não um heading. O <h1> vem logo depois.
+    "MD041": false,
+
+    // Grupos de links ficam em uma linha física de propósito: quebrá-los faz
+    // o resultado depender de o renderizador tratar quebra simples como <br>.
+    "MD013": false
+  },
+  "globs": ["README.md"]
+}
