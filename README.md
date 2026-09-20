@@ -12,8 +12,6 @@ Desenvolvo aplicações web e mobile com atenção a arquitetura, segurança dos
 
 Trabalho do requisito ao uso: converso com quem opera o sistema, modelo os dados, coloco as regras críticas onde não podem ser contornadas e só então cuido da interface. Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.
 
-Uso assistentes de IA no desenvolvimento (Claude e Lovable, como o histórico dos repositórios mostra). Requisitos, revisão, validação e decisões de arquitetura ficam comigo.
-
 ## Trabalhando agora
 
 **[Meu Chamado](https://github.com/guilhermegpo/meu-chamado)** · `0.2.0-alpha.4` · alpha. Aplicativo Android offline-first, com banco local criptografado, PIN e biometria, RBAC e 300 testes automatizados. Flutter, Dart, Riverpod e Drift.
@@ -31,7 +29,7 @@ Uso assistentes de IA no desenvolvimento (Claude e Lovable, como o histórico do
 **Web** React · TypeScript · TanStack Router · Tailwind CSS · Astro  
 **Mobile** Flutter · Dart · Capacitor · Android  
 **Backend e dados** Supabase · PostgreSQL · Row Level Security · Edge Functions  
-**Qualidade e entrega** Vitest · Flutter Test · GitHub Actions · Cloudflare Workers
+**Qualidade e entrega** Vitest · Flutter Test · GitHub Actions · Cloudflare Workers · ferramentas de desenvolvimento assistido por IA
 
 Cada item acima foi detectado nos meus repositórios; o portfólio mostra em quantos projetos.
 
