@@ -29,7 +29,7 @@ Trabalho do requisito ao uso: converso com quem opera o sistema, modelo os dados
 **Web** React · TypeScript · TanStack Router · Tailwind CSS · Astro  
 **Mobile** Flutter · Dart · Capacitor · Android  
 **Backend e dados** Supabase · PostgreSQL · Row Level Security · Edge Functions  
-**Qualidade e entrega** Vitest · Flutter Test · GitHub Actions · Cloudflare Workers · ferramentas de desenvolvimento assistido por IA
+**Qualidade e entrega** Vitest · Flutter Test · GitHub Actions · Cloudflare Workers
 
 Cada item acima foi detectado nos meus repositórios; o portfólio mostra em quantos projetos.
 
