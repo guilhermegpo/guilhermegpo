@@ -36,7 +36,7 @@ Aplicativo Android offline-first para organizar usuários e chamados em um Works
 
 `Capacitor` `Android` `JavaScript` `PWA` `Supabase` `Edge Functions`
 
-Aplicativo Android e PWA para controle de chaves e movimentação de veículos de uma frota: perfis de acesso com Row Level Security, histórico e auditoria, login por biometria e atualização obrigatória com liberação gradual. 119 testes automatizados. Código privado.
+Aplicativo Android e PWA para controle de chaves e movimentação de veículos de uma frota: perfis de acesso com Row Level Security, histórico e auditoria, login por biometria e atualização obrigatória com liberação gradual. 127 testes automatizados. Código privado.
 
 [Case study](https://guilhermegpo.github.io/meu-perfil/projetos/controle-de-chaves/)
 
@@ -67,7 +67,7 @@ Produtos pessoais voltados a organização, rotina e autonomia, com o mesmo sím
 
 `Astro` `TypeScript` `GitHub Actions`
 
-Este mesmo site, em Astro estático: responsivo, acessível, com SEO, animações e 3D feitos só com CSS, stack e métricas calculadas a partir dos repositórios e verificação automática no CI. Lighthouse local: 100 em desempenho no desktop e 97 no mobile; 100 em acessibilidade, boas práticas e SEO nos dois.
+Este mesmo site, em Astro estático: responsivo, acessível, com SEO, animações e 3D feitos só com CSS, stack e métricas calculadas a partir dos repositórios e verificação automática no CI. Lighthouse local: 100 em desempenho no desktop e 96–97 no mobile; 100 em acessibilidade, boas práticas e SEO nos dois.
 
 [Ver o site](https://guilhermegpo.github.io/meu-perfil/) · [GitHub](https://github.com/guilhermegpo/meu-perfil)
 
@@ -96,11 +96,11 @@ Cada item foi detectado no código dos meus projetos; o portfólio mostra em qua
 
 ## Em números
 
-- **419** testes automatizados, nos dois projetos que têm suíte (300 em Flutter e 119 em Vitest)
+- **427** testes automatizados, nos dois projetos que têm suíte (300 em Flutter e 127 em Vitest)
 - **17** ADRs, no Meu Chamado
 - **24** tecnologias detectadas em **5** projetos auditados
 
-Números recalculados executando as suítes em 20/09/2026.
+Números recalculados executando as suítes em 21/09/2026.
 
 ## Experiência prática
 
