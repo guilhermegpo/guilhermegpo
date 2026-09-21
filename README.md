@@ -1,147 +1,118 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img src="assets/banner-light.png" alt="Guilherme Pereira — Desenvolvedor Full Stack, Mobile e Backend. Construindo produtos reais, engenharia com propósito.">
-</picture>
+<p align="center">
+  <img
+    src="./banner-perfil.png"
+    alt="Guilherme Pereira de Oliveira — Full Stack Developer. Web, Mobile e Backend. Construindo produtos reais. Engenharia com propósito."
+    width="100%"
+  />
+</p>
 
-# Guilherme Pereira
+# Guilherme Pereira de Oliveira
 
-**Desenvolvedor Full Stack | Mobile & Backend** · Brasília, DF — Brasil
+**Full Stack Developer** · Web · Mobile · Backend
 
-Formado em Análise e Desenvolvimento de Sistemas, com experiência prática
-desenvolvendo e implantando uma aplicação web interna que entrou em uso real.
-Hoje construo produtos web e mobile próprios, com atenção a arquitetura,
-experiência de uso e qualidade de software.
+> Construindo produtos reais. Engenharia com propósito.
 
-[**Portfólio**](https://guilhermegpo.github.io/meu-perfil/) · [LinkedIn](https://www.linkedin.com/in/guilhermeoliveira-gpo/) · [Projetos](https://guilhermegpo.github.io/meu-perfil/#projetos)
+Brasília, DF · Aberto a oportunidades
 
----
+[Portfólio](https://guilhermegpo.github.io/meu-perfil/) · [LinkedIn](https://www.linkedin.com/in/guilhermeoliveira-gpo/) · [E-mail](mailto:guilhermegpo.dev@gmail.com)
 
-## Atualmente desenvolvendo
+## Sobre
 
-> [!NOTE]
->
-> ### Meu Chamado · `v0.1.0-alpha.1` · em desenvolvimento
->
-> Aplicativo Flutter para Android com arquitetura multiusuário e multichamado,
-> persistência offline e controle de acesso baseado em papéis.
->
-> **Stack** — Flutter · Dart · Riverpod · Drift · SQLite
->
-> **O que já existe:** 28 testes automatizados · CI Android · schema versionado
-> com migração · RBAC `ADMIN` / `MODERATOR` / `USER` · fundação offline-first ·
-> versionamento semântico
->
-> [Repositório](https://github.com/guilhermegpo/meu-chamado) · [Release v0.1.0-alpha.1](https://github.com/guilhermegpo/meu-chamado/releases/tag/v0.1.0-alpha.1)
+Desenvolvo aplicações web, mobile e backend, do levantamento da necessidade à arquitetura, à modelagem de dados, à interface, à validação e à evolução do software. Já implantei uma aplicação web interna e mantenho sistemas operacionais e produtos próprios.
 
----
+Gosto de transformar processos reais em produtos organizados e seguros. Nos projetos que mantenho, isso significa regras de acesso no banco, testes automatizados, decisões de arquitetura registradas, versionamento e documentação que acompanham o código.
 
 ## Projetos em destaque
 
-### Meu Chamado
+### Meu Chamado · `0.2.0-alpha.4`
 
-`Mobile` · `Em desenvolvimento`
+`Flutter` `Dart` `Riverpod` `Drift / SQLite` `Android` `GitHub Actions`
 
-Aplicativo Android offline-first para organizar usuários e chamados em um
-Workspace local. A alpha entrega a fundação — onboarding, persistência, papéis e
-ciclo de vida dos chamados — sem apresentar integrações planejadas como
-concluídas.
+Aplicativo Android offline-first para organizar usuários e chamados em um Workspace local: banco local criptografado, controle de acesso por papéis (RBAC), PIN com biometria opcional, 17 ADRs e 300 testes automatizados. Em alpha.
 
-**Stack** — Flutter · Dart · Riverpod · Drift · SQLite
+[Case study](https://guilhermegpo.github.io/meu-perfil/projetos/meu-chamado/) · [GitHub](https://github.com/guilhermegpo/meu-chamado)
 
-[Repositório](https://github.com/guilhermegpo/meu-chamado) · [Release](https://github.com/guilhermegpo/meu-chamado/releases/tag/v0.1.0-alpha.1)
+### Controle de Chaves
 
-### Meu Perfil
+`Capacitor` `Android` `JavaScript` `PWA` `Supabase` `Edge Functions`
 
-`Portfolio / Web` · `Finalizado, em evolução contínua`
+Aplicativo Android e PWA para controle de chaves e movimentação de veículos de uma frota: perfis de acesso com Row Level Security, histórico e auditoria, login por biometria e atualização obrigatória com liberação gradual. 127 testes automatizados. Código privado.
 
-Portfólio profissional estático. Cada projeto é apresentado como case, com página
-própria: problema, participação, solução e resultado.
+[Case study](https://guilhermegpo.github.io/meu-perfil/projetos/controle-de-chaves/)
 
-**Stack** — Astro · TypeScript
+### Sistema de gestão de cursos
 
-Lighthouse 100/100/100/100 em desktop e mobile · contraste verificado contra
-WCAG AA por script no CI · publicação contínua no GitHub Pages.
+`React` `TypeScript` `TanStack Router` `Tailwind CSS` `Supabase` `PWA`
 
-[Acessar o site](https://guilhermegpo.github.io/meu-perfil/) · [Código](https://github.com/guilhermegpo/meu-perfil)
+Aplicação web para planejar e acompanhar cursos, com escalas, solicitações, permissões, auditoria e importação e exportação de dados. Código privado.
 
-### Sistema de gestão de cursos — ILA/FAB
+[Case study](https://guilhermegpo.github.io/meu-perfil/projetos/sistema-gestao-cursos/)
 
-`Full Stack` · `Case real`
+### Sistema de escalas de serviço
 
-Aplicação web interna desenvolvida e implantada para apoiar o planejamento, a
-coordenação e o gerenciamento de cursos. Atuei no levantamento de requisitos, no
-mapeamento de fluxos, no frontend, na estrutura de dados, na implantação, na
-documentação e no suporte aos usuários.
+`React` `TypeScript` `TanStack Router` `Tailwind CSS` `Supabase` `PWA`
 
-**Stack** — React · TypeScript · TanStack Router · Supabase · PostgreSQL
+Aplicação web interna para organização e gestão de escalas: regras configuráveis, geração com prévia e publicação, trocas e adiantamentos, indisponibilidades, aprovações, permissões, auditoria, PDF e importação e exportação. Projeto interno; código privado.
 
-Sistema interno: o código e as telas não são públicos.
+[Case study](https://guilhermegpo.github.io/meu-perfil/projetos/sistema-escalas-servico/)
 
-[Ver o case completo](https://guilhermegpo.github.io/meu-perfil/projetos/sistema-ila-fab/)
+### Família Apps Meu
 
----
+Produtos pessoais voltados a organização, rotina e autonomia, com o mesmo símbolo "M" e identidade própria em cada um:
+[Meu Chamado](https://guilhermegpo.github.io/meu-perfil/projetos/meu-chamado/) (alpha `0.2.0-alpha.4`),
+[Meu Financeiro](https://guilhermegpo.github.io/meu-perfil/projetos/meu-financeiro/) (em desenvolvimento) e
+[Meu Treino](https://guilhermegpo.github.io/meu-perfil/projetos/meu-treino/) (em desenvolvimento).
 
-## Stack
+### Portfólio
 
-**Frontend** — React · TypeScript · JavaScript · Astro
+`Astro` `TypeScript` `GitHub Actions`
 
-**Mobile** — Flutter · Dart
+Este mesmo site, em Astro estático: responsivo, acessível, com SEO, animações e 3D feitos só com CSS, stack e métricas calculadas a partir dos repositórios e verificação automática no CI. Lighthouse local: 100 em desempenho no desktop e 96–97 no mobile; 100 em acessibilidade, boas práticas e SEO nos dois.
 
-**Backend e dados** — Supabase · PostgreSQL · SQL · APIs REST
+[Ver o site](https://guilhermegpo.github.io/meu-perfil/) · [GitHub](https://github.com/guilhermegpo/meu-perfil)
 
-**Ferramentas** — Git · GitHub · Docker · Postman · VS Code · IntelliJ IDEA
+## Stack principal
 
----
+**Web** `React` `TypeScript` `JavaScript` `TanStack Router` `Tailwind CSS` `Astro` `Vite` `PWA`
 
-## Engenharia e práticas
+**Mobile** `Flutter` `Dart` `Riverpod` `Capacitor` `Android`
 
-Interface é metade do trabalho. A outra metade é o que garante que a entrega
-continue funcionando depois.
+**Backend e dados** `Supabase` `PostgreSQL` `Row Level Security` `Edge Functions` `SQLite (Drift)`
 
-**Versionamento** — branch protection em `main` e `develop`, pull request com
-status checks obrigatórios, Conventional Commits e versionamento semântico.
+**Qualidade e entrega** `Git` `GitHub Actions` `Vitest` `Flutter Test` `ESLint` `Cloudflare Workers`
 
-**Automação** — GitHub Actions em todo pull request: formatação, tipos, testes e
-build. Publicação contínua a cada merge.
+Cada item foi detectado no código dos meus projetos; o portfólio mostra em quantos aparece.
 
-**Qualidade** — testes automatizados onde a lógica quebra em silêncio, e
-verificação própria onde a ferramenta pronta não cobre: um script mede contraste
-WCAG lendo os tokens do CSS e valida metadados e links internos no build.
+## Como construo software
 
-**Arquitetura** — decisões relevantes viram Architecture Decision Records, com
-contexto, alternativas e consequências. Privacidade por padrão: nenhum dado real
-de pessoas em repositório público.
+- **Offline-first.** O banco local é a fonte de trabalho; a rede é opcional.
+- **Acesso no banco.** RBAC e Row Level Security decidem quem pode o quê; esconder um botão nunca é a única barreira.
+- **Dados.** Esquema versionado em migrações e regras críticas em funções transacionais.
+- **Testes e CI.** Suítes automatizadas e GitHub Actions em pull requests, com verificação antes de cada publicação.
+- **Decisões registradas.** ADRs com contexto e alternativas descartadas.
+- **Versionamento e documentação.** SemVer, changelog, Conventional Commits, modelo de ameaças e guias que acompanham o código.
+- **Auditoria.** Eventos sensíveis registrados e consultáveis.
+- **Interface.** Responsividade, acessibilidade e desempenho verificados por script.
 
----
+## Em números
 
-## Experiência
+- **427** testes automatizados, nos dois projetos que têm suíte (300 em Flutter e 127 em Vitest)
+- **17** ADRs, no Meu Chamado
+- **24** tecnologias detectadas em **5** projetos auditados
 
-### Instituto de Logística da Aeronáutica — ILA/FAB
+Números recalculados executando as suítes em 21/09/2026.
 
-**Soldado Temporário** · 08/2023 — 06/2026 · Guarulhos, SP
+## Experiência prática
 
-Levantamento de requisitos e mapeamento de fluxos junto aos usuários,
-desenvolvimento e implantação de aplicação web interna, modelagem do banco de
-dados, documentação e suporte após a entrega.
-
-### Torre Contabilidade LTDA
-
-**Auxiliar Fiscal** · 02/2022 — 07/2023 · São Paulo, SP
-
-Rotina fiscal com prazos legais rígidos e alto volume de informação.
-
----
+Construí e implantei uma aplicação web interna em ambiente institucional — do levantamento de requisitos e mapeamento de fluxos à modelagem de dados, documentação e suporte aos usuários — e desenvolvo sistemas operacionais internos e aplicativos próprios, web e mobile.
 
 ## Formação
 
-**Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul · 02/2022 — 07/2026 · Concluído
+Análise e Desenvolvimento de Sistemas — Universidade Cruzeiro do Sul
 
----
+## Contato
 
-## Vamos conversar?
-
-Aberto a oportunidades como desenvolvedor **Full Stack**, **Mobile** ou
-**Backend**.
-
-[Portfólio](https://guilhermegpo.github.io/meu-perfil/) · [LinkedIn](https://www.linkedin.com/in/guilhermeoliveira-gpo/) · [guilhermegpo.dev@gmail.com](mailto:guilhermegpo.dev@gmail.com)
+- [Portfólio](https://guilhermegpo.github.io/meu-perfil/)
+- [LinkedIn](https://www.linkedin.com/in/guilhermeoliveira-gpo/)
+- [GitHub](https://github.com/guilhermegpo)
+- [E-mail profissional](mailto:guilhermegpo.dev@gmail.com)
