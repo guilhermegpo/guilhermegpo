@@ -108,7 +108,9 @@ Construí e implantei uma aplicação web interna em ambiente institucional — 
 
 ## Formação
 
-Análise e Desenvolvimento de Sistemas — Universidade Cruzeiro do Sul
+Tecnólogo em Análise e Desenvolvimento de Sistemas — Universidade Cruzeiro do Sul
+
+Conclusão: 2026
 
 ## Contato
 
